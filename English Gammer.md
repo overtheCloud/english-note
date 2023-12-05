@@ -78,7 +78,7 @@ For I shall afready have forgotten you
 12. 将来完成进行时: will + hava + been + 现在分词  
 You will have been watching my video.
 
-13. 一般过去将来时: would + 动词原形 
+13. 一般过去将来时: would + 动词原形  
 I said i would eat a carrot for lunch.
 14. 过去将来进行时: would + be + 现在分词  
 I said i would be eating a carrot at 1PM tomorrow.
@@ -339,7 +339,7 @@ Let me out.
 I'll hava the wolf wash the dishes.  
 I had someone wash my car -> I had my car washed.  
 
-4. get 说服做
+4. get 说服做  
 I'll get the wolf to clean the kitchen after she washes the dishes.  
 
 ![](./images/使役动词.png)
